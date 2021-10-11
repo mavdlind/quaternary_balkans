@@ -1,0 +1,108 @@
+country,lat,lon,site,bioregion,culture,sample.number,sample.volume,eink,emmer,newwht,ftwht,rye,barley,flax,poppy,lentil,pea,bbean,bvetch,cvetch,grpea,appear,cornus,dogw,hawth,hazel,trapa,sloe,prunus,wstraw,physal,rubus,sambuc,grape,acorn,biogroup
+Hungary,47.25,17.23,Adorjánháza-Kenderáztató,pannonian,LBK,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.208121,18.705132,Alsónyék-Bátaszék (HU 2),pannonian,LBK,15,248,1,1,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,pannonian
+Hungary,46.20697,18.702595,Alsónyék-Bátaszék (HU 3),pannonian,SKC,4,119.5,1,1,,,,1,,,,,,,,,,1,,,,1,,,,,,1,,,pannonian
+Hungary,46.208639,18.70167,Alsónyék-Bátaszék (HU 6),pannonian,SKC,2,16,1,1,,,,,,,,,,,,,,,,,,,,,,,,1,,,pannonian
+Serbia,45.136,21.281,At,pannonian,SKC,10,100,1,,1,,,1,,,,,,,,,,,,,,,,1,,1,,1,,,pannonian
+Hungary,46.66,17.31,Balatonszentgyörgy,pannonian,LBK,,,1,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.27,21.05,Battonya-Basarága,pannonian,SKC,1,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,pannonian
+Hungary,46.44,16.78,Becsehely-Bükkalji dűlő,pannonian,sopot,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.48,16.84,Becsehely-Újmajori tábla,pannonian,sopot,,,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,44.577,19.718,Belotić,continental,SKC,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,continental
+Serbia,44.311,21.401,Belovode,continental,SKC,7,42,1,1,1,,,1,,,1,1,,,,,1,,,,1,,1,1,,,1,,,,continental
+Serbia,44.31096389,21.40083333,Belovode,continental,vinča,41,257,1,1,1,1,,1,1,,1,1,,1,,1,,1,,,1,,1,1,1,1,1,1,,,continental
+Hungary,47.6,21.9,Berettyóújfalu-Nagy,pannonian,SKC,12,,1,1,,1,,1,,,1,1,,,,,1,,,,,,,,,,,1,1,1,pannonian
+Hungary,47.5,18.65,Bicske-Galagonyás,pannonian,LBK,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,43.723,21.098,Blagotin,continental,SKC,,,1,1,,,,1,,,1,,,,,,1,1,,,,,,,,,1,,,,continental
+Serbia,45.6,20.1333,Bordjoš,pannonian,vinča,,,1,1,1,,,1,,,,1,,,,,,1,,,1,1,,,,,,1,,,pannonian
+Croatia,45.95,16.58,Brezovljani,pannonian,sopot,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,43.29,21.84,Bubanj,continental,SKC,5,50,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,continental
+BaH,43.824,18.31,butmir,alpine,butmir,,,1,,,1,,1,,,1,1,,,,,1,,,,1,,,,,,,,,,continental
+Serbia,44.03,20.83,Divostin I,continental,SKC,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,continental
+Serbia,44.03,20.83,Divostin II,continental,vinča,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,continental
+Hungary,46.4,18.17,Dombóvár-Gunaras,pannonian,LBK,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,pannonian
+BaH,44.025,18.17,Donje Moštre,alpine,butmir,47,,1,1,,1,,1,1,,1,1,,,,,,1,,,1,,,,,,,1,,,continental
+Serbia,43.782,21.435,Drenovac,continental,SKC,63,524.3,1,1,,,,1,,,1,1,,,,,,1,,,,,,,,1,1,1,,,continental
+Serbia,43.78156389,21.43527778,Drenovac,continental,vinča,440,3672.5,1,1,1,1,,1,1,,1,1,,1,,,,1,,,,,1,,1,1,1,1,1,,continental
+Hungary,47.15,20.92,Ecsegfalva,pannonian,SKC,,4756.7,1,1,,1,,1,,,1,,,,,,,,,,1,1,,,1,,,1,,,pannonian
+Hungary,46.402068,18.937807,Fajsz (HU 1),pannonian,sopot,45,574.5,1,1,,,,1,,,1,,,,,,,1,1,,,,,,,,,,1,,pannonian
+Hungary,46.402068,18.937807,Fajsz (HU 1),pannonian,LBK,5,86.5,1,1,,,,,,,,,,,,,,1,,,,,,,,,,,,,pannonian
+Hungary,46.71,17.24,Fenékpuszta-Vámház,pannonian,LBK,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,47.75,20.4,Füzesabony-Gubakút,pannonian,LBK,38,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,44.88844722,19.74833333,Gomolava,pannonian,vinča,41,,1,1,,1,,1,1,,1,1,,,,,1,1,,,,1,,,1,1,1,1,1,,pannonian
+BaH,44.557,18.762,Gornja Tuzla,continental,vinča,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,continental
+Croatia,45.193,19.259,Gradac-Bapska,pannonian,sopot,8,495,1,1,,,,1,,,,,,,,,,,,,,,,,,1,,1,,,pannonian
+Hungary,46.93,20.8,Gyomaendrőd,pannonian,SKC,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.92,17.53,Hegyesd-Ágói dűlő,pannonian,LBK,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Croatia,45.55,18.69,Hermanov Vinograd,pannonian,sopot,129,812.5,1,1,1,1,,1,,1,1,1,1,1,1,,,1,,1,1,,1,,1,1,,1,,,pannonian
+Hungary,48.1,21.7,Ibrány-Nagyerdő,pannonian,SKC,45,,,,,1,,1,,1,1,1,,,,,,,,,,,,,,,,,,,pannonian
+Croatia,45.32,18.38,Ivandvor-Gaj,pannonian,sopot,14,154,1,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,pannonian
+BaH,43.64,18.97,Jagnjilo,alpine,butmir,185,,1,1,,1,,1,1,,1,1,,1,,1,1,1,1,,1,,1,,1,1,1,1,,,continental
+Serbia,44.367,20.167,Jaričište 1,continental,SKC,7,55,,1,,,,1,,,1,1,,,,,,1,,,,,,,,,,,,,continental
+Serbia,44.366667,20.166667,Jaričište 1,continental,vinča,2,17,,,1,,,,1,,1,,,,,,,1,,,,,,,,,,,,,continental
+BaH,44.125,18.115,Kakanj,alpine,SKC,4,,1,1,,1,,1,,,,1,,,,,,1,,,,,,,,,,,,,continental
+Hungary,46.38,17.81,Kaposvár-Kisapáti dűlő,pannonian,LBK,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.44,17.78,Kaposvár-Villanytelep,pannonian,LBK,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.78,17.25,Keszthely-Zsidi út,pannonian,LBK,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.65,17.39,Kéthely-Sziget,pannonian,LBK,,,,,,1,,1,,,,,,,,,,,,,1,,,,,,,,,,pannonian
+BaH,45.07,17.409,Kočićevo,continental,sopot,16,90.5,1,1,,1,,1,,,,1,,,,,,1,,,,,,,,,,,,,continental
+BaH,44.69,18.29,Korića Han,continental,vinča,1,,1,1,,,1,1,,,1,,,,,,,,,,,,,,,,,,,,continental
+BaH,44.963,17.393,Kosjerovo,continental,sopot,26,412,1,1,,,,1,,,,,,,,,,,,,1,,,,,,,1,,,continental
+BaH,44.038,18.069,Kundruci,alpine,butmir,29,,1,1,,,,1,,,,,,,,1,,1,,,1,,,,,,1,,,,continental
+BaH,45.108,17.373,Laminci Jaružani,continental,butmir,2,144,1,,,,,,1,,,,,,,,,1,,,,,,,,,,,,,continental
+BaH,45.114,17.362,Laminci Jaružani-Njiva,continental,butmir,2,56,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,continental
+BaH,43.7,17.896,Lisičići,alpine,butmir,,,1,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,continental
+Hungary,46.1,18,Ludas-Varjú dűlő,pannonian,LBK,71,,1,1,,,,1,,,,,,,,,,1,,,,,,,,,,,,1,pannonian
+BaH,43.643,18.99,Lug (Goražde),alpine,butmir,,,1,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,continental
+Hungary,46.46,17.91,Magyaratád,pannonian,LBK,,,1,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.56,17.37,Marcali-Lókpuszta,pannonian,LBK,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,43.959,21.181,Medjureč,continental,SKC,10,30,1,1,,,,1,,,1,,,,,,,1,,,,,,,,,1,,,,continental
+Serbia,44.366333,20.9565,Medvednjak,continental,vinča,6,,1,1,,1,,,,,1,,,1,,,,1,,,1,,,,,,,,,,continental
+Hungary,47.93,22.84,Méhtelek-Nádas,pannonian,SKC,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,pannonian
+Hungary,46.55,17.81,Mernye-Szentmiklós,pannonian,LBK,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,47.72,17.46,Mosonszentmiklós-Pálmajor,pannonian,LBK,6,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,43.867,21.417,Motel Slatina,continental,vinča,2,1.7,1,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,continental
+BaH,44.103,18.141,Obre I,alpine,SKC,23,,1,1,,1,,,,,1,1,,,,,,1,,,,,,,,,,,,,continental
+BaH,44.103,18.151,Obre II,alpine,butmir,14,,1,1,,1,,1,,,1,,,,,,,,,,,,,,,,,,,,continental
+BaH,44.033,18.141,Okolište,alpine,butmir,58,,1,1,1,1,1,1,1,,1,1,1,1,,1,1,1,1,,1,,1,,,1,1,1,1,,continental
+Serbia,45.0468028,20.4623194,Opovo,pannonian,vinča,267,2916,1,1,1,,,1,1,,1,,,,,,,1,,,,1,,,1,1,1,1,1,,pannonian
+Croatia,45.15,18.86,Otok,pannonian,sopot,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,47.34,17.49,Pápa-Vaszar,pannonian,LBK,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.63,18.21,Pári-Altäcker dűlő,pannonian,LBK,1,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,42.48905833,21.85222222,Pavlovac-Gumnište,continental,vinča,185,1664.5,1,1,1,1,,1,1,,1,1,,1,,1,1,1,,,,,1,1,1,1,1,1,1,,continental
+Serbia,44.246,19.936,Petnica,continental,vinča,,,1,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,continental
+Hungary,46.43,16.84,Petrivente,pannonian,LBK,4,,,1,,,,1,,,,,,,,,,,,,,,,,,,,1,,,pannonian
+Serbia,43.21018333,21.36388889,Pločnik,continental,vinča,68,479,1,1,1,1,,1,1,,1,1,,1,,1,1,1,,,1,,1,1,1,1,1,1,,,continental
+Hungary,47.88,21.08,Polgár 31,pannonian,LBK,105,,1,1,,1,1,1,1,,1,1,,,,,,,,,,1,,1,1,,,,,,pannonian
+Hungary,47.88,21.08,Polgár 31,pannonian,LBK,61,,1,1,,,,1,,,1,1,,,,1,,,,,,,,,,,,,,,pannonian
+Serbia,45.02163889,21.24861111,Potporanj,pannonian,vinča,11,110,1,1,1,1,,,1,,1,,,,,,,1,,,1,,1,,1,1,,1,,,pannonian
+Kosovo*,42.664,21.165,Predionica,continental,vinča,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,continental
+Croatia,45.19,17.64,Ravnjaš-Nova Kapela,pannonian,sopot,71,781,1,1,1,1,1,1,,,1,1,,,,,,,,,,,,,,,1,1,,,pannonian
+Hungary,46.279,20.077,Röszke-Lúdvár,pannonian,SKC,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Serbia,44.495278,20.873611,Selevac,continental,vinča,53,,1,1,,,,1,,,1,1,,,,,1,1,,,1,,,,,1,1,1,,,continental
+Croatia,45.25,17.38,Slavča,pannonian,sopot,28,264,1,1,1,1,,1,1,,1,1,,1,,,,1,,,,,,,,1,,,,,pannonian
+Croatia,45.28,18.8,sopot,pannonian,SKC,4,44,1,1,,,,1,,,,1,,,,,,,,,,,,1,,1,,,,,pannonian
+Croatia,45.28,18.8,sopot,pannonian,sopot,144,2842,1,1,1,1,1,1,1,,1,1,,,,1,,1,,,,,,,,1,,1,,,pannonian
+Serbia,44.822,20.354,Starčevo-Grad,pannonian,SKC,3,30,1,1,,1,,1,,,,1,,,,,1,1,,,,,,,,,,1,,,pannonian
+Serbia,42.934,21.673,Svinjarička Čuka,continental,SKC,1,24,,1,1,,,1,,,,,,,,,,,,,,,,,1,1,,,,,continental
+Hungary,46.86,20.58,Szarvas-Szappanosi szőlők,pannonian,SKC,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.25,20.17,Szeged-Gyálarét,pannonian,SKC,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.72,16.4,Szentgyörgyvölgy-Pityerdomb,pannonian,LBK,5,20.5,1,1,,1,,1,,,,1,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.48,17.41,Szenyér-Mesztegnyő,pannonian,LBK,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,47.83,18.87,Szob-Kilenec,pannonian,LBK,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,46.79,17.84,Szólád-Hadúti dűlő,pannonian,LBK,,,1,1,,1,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,47.21,16.58,Szombathely-Aranypatak lakópark,pannonian,LBK,10,,1,1,,,,1,,,1,,,,,,,,,,,,1,,,,,1,,,pannonian
+Hungary,46.88,17.44,Tapolca-Plébániakert,pannonian,LBK,,,1,1,,1,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Hungary,47.56,20.7,Tiszaszőlős-Domaháza puszta,pannonian,SKC,111,,1,1,,1,,1,,,,1,,,,,,,,,,1,,,,,,1,,,pannonian
+Hungary,47.56,20.7,Tiszaszőlős-Domaháza puszta,pannonian,SKC,71,,1,1,,1,,1,,,1,,1,,,,,,,,,1,,,,,,1,,,pannonian
+Hungary,47.56,20.7,Tiszaszőlős-Domaháza puszta,pannonian,LBK,104,,1,1,,1,,1,,,1,,,,,,,,,,,,,,1,,1,1,,,pannonian
+Hungary,47.97,21.38,Tiszavasvár-Keresztfal,pannonian,LBK,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,pannonian
+Croatia,45.38,18.41,Tomašanci-Palača,pannonian,SKC,47,407,1,1,,,,1,1,,1,,,,,,,1,,,,,,,,,,1,,,pannonian
+Croatia,45.38,18.41,Tomašanci-Palača,pannonian,sopot,1,11,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,pannonian
+Hungary,47.44,18.88,Törökbálint Dulácska (Outlet áruház),pannonian,LBK,16,,1,1,,1,,1,,,1,,,,,,,,,,,,,,,,,,,,pannonian
+Kosovo*,42.947,20.831,Valač,continental,vinča,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,continental
+Serbia,44.01,20.917,vinča (Kragujevac),continental,vinča,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,continental
+Serbia,44.762,20.623,vinča-Belo Brdo,continental,vinča,195,2281.5,1,1,1,1,,1,1,,1,1,,1,,,1,1,,,,1,1,,1,1,1,1,1,,continental
+Croatia,45.84,17.35,Virovitica-Brekinja,pannonian,vinča,2,55,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,pannonian
+BaH,44.082,18.09,Zagrebnice,alpine,vinča,28,,1,1,,,,1,1,,,,,,,,,1,,,1,,,,,1,1,,1,,continental
+Hungary,46.88,17.71,Zánka-Vasúti bevágás,pannonian,LBK,,,1,1,,1,,1,,,,,,,,,,,,,,,,,,,,,,,pannonian
